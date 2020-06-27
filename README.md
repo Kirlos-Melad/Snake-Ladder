@@ -1,6 +1,6 @@
 # Snake-Ladder
 GUI Project using SFML library
-# Developers List
+## Developers List
 | Name             | Account                                                      |
 | ---------------- | ------------------------------------------------------------ |
 | Emad Magdy       | [@emadmagdy2022](https://github.com/emadmagdy2022)           |
