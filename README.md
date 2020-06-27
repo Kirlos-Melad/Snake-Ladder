@@ -1,2 +1,2 @@
 # Snake-Ladder
-GUI Project
+GUI Project using SFML library
